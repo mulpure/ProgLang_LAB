@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/솔루션 항목/">
+    <File Path="LAB09_1/intArray_data.txt" />
+    <File Path="LAB09_1/strArray_data.txt" />
+  </Folder>
+  <Project Path="LAB09_1/LAB09_1.vcxproj" Id="d5647be6-7c15-4d19-9453-e759e36d7be3" />
+</Solution>
