@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/솔루션 항목/">
+    <File Path="HW09_1/dblArray_data.txt" />
+    <File Path="HW09_1/intArray_data.txt" />
+    <File Path="HW09_1/strArray_data.txt" />
+  </Folder>
+  <Project Path="HW09_1/HW09_1.vcxproj" Id="96add030-a386-4ce0-ab5c-1601558873c5" />
+</Solution>
